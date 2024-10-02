@@ -631,7 +631,7 @@ header .circle {
   overflow: hidden;
   border-radius: 0.5rem;
   height: 330px;
-  width: auto;
+  width: 100%;
   cursor: pointer;
 }
 
